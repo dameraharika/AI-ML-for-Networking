@@ -67,5 +67,5 @@ This project is open-source and available under the MIT License.
 
 ## 🙋‍♀️ Maintainer
 
-**Damera Harika**  
+**Damera Harika, Dasapalli Pravallika, Manchala Dinesh Kumar**  
 Feel free to connect or raise issues for any suggestions or improvements.
